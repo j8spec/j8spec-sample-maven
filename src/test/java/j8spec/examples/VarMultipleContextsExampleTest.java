@@ -30,7 +30,7 @@ public class VarMultipleContextsExampleTest {{
         });
 
         it("adds two values", () -> {
-            assertThat(var(calculator).add(var(intValue1), var(intValue2)), is(2));
+            assertThat(var(calculator).add(var(intValue1), var(intValue2)), is(4));
         });
     });
 

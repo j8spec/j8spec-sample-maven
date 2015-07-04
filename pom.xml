@@ -2,10 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.j8spec</groupId>
-  <artifactId>j8spec-examples</artifactId>
-  <packaging>jar</packaging>
+  <artifactId>j8spec-sample-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>j8spec-samples</name>
+  <packaging>jar</packaging>
+
+  <name>J8Spec Sample Maven Project</name>
 
   <build>
     <plugins>
