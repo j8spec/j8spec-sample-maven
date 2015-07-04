@@ -20,7 +20,7 @@ public class VarMultipleContextsExampleTest {{
         var(calculator, new Calculator());
     });
 
-    context("integer values", () -> {
+    fcontext("integer values", () -> {
         Var<Integer> intValue1 = var();
         Var<Integer> intValue2 = var();
 

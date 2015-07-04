@@ -2,3 +2,6 @@ language: java
 
 jdk:
   - oraclejdk8
+
+script:
+  - mvn test -Dj8spec.ci.mode=true
