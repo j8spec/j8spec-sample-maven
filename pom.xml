@@ -3,7 +3,7 @@
 
   <groupId>io.github.j8spec</groupId>
   <artifactId>j8spec-sample-maven</artifactId>
-  <version>3.0.0</version>
+  <version>3.0.1</version>
   <packaging>jar</packaging>
 
   <name>J8Spec Sample Maven Project</name>
@@ -26,7 +26,7 @@
     <dependency>
       <groupId>io.github.j8spec</groupId>
       <artifactId>j8spec</artifactId>
-      <version>3.0.0</version>
+      <version>3.0.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
